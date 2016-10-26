@@ -121,3 +121,5 @@
 52.	How does traceroute work?
 
 53.	A careless sysadmin executes the following command: ```chmod 444 chmod``` - what do you do to fix this?
+
+54. How does SSH forwarding work?
